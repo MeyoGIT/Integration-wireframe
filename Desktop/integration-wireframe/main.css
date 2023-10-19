@@ -1,0 +1,116 @@
+html{
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.8px;
+}
+
+.cadre-banner{
+    background-image: url('images/banner-fond.png');
+    background-repeat: round;
+    width: 100%;
+    padding: 4rem 13rem;}
+
+.cadre-titre-banner{
+    background-color: black;
+}
+
+.search-mentor{
+    width: 50%;
+}
+
+.competences{
+    width: 65%;
+}
+
+.competences{
+    margin-top: 11rem;
+}
+.comp{
+    background-color: rgb(218, 218, 218);
+    min-height: 25rem;
+}
+
+.bg-info-fond{
+    background-image: url('images/cadre-info-fond.png');
+    background-repeat: round;
+    min-height: 25rem;
+    /* margin-left: 12px; */
+}
+
+.mentors{
+    width: 65%;
+}
+
+.card{
+    border: none;
+}
+
+.avis{
+    width: 65%;
+}
+
+.name {
+    font-weight: bold;
+}
+
+.card-avis{
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.img-avatar {
+    height: 8rem;
+    width: 8rem;
+}
+
+.card-avis-simple{
+    padding: 20px;
+    margin: 20px;
+}
+
+.avis-text-simple{
+    text-align: justify;
+}
+
+.img-avatar-simple{
+    height: 100%;
+    width: 100%;
+}
+
+.formulaire{
+    width: 60%;
+}
+
+.cadre-formulaire{
+    background-color: rgb(191, 191, 191);
+    padding: 2rem;
+}
+
+.buttons-form{
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-forms{
+    padding: 12px 27px;
+}
+
+.btn-annuler{
+    border: solid 1px black;
+}
+
+.col-logo{
+    text-align: center;
+    align-self: center;
+}
+
+.social-medias{
+    text-align: right;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+}
